@@ -11,9 +11,7 @@ The dashboard covers various HR metrics, divided into different sections to help
 
 1. Summary Metrics:
 Count of Employees: 1,470
-
 Total Attrition: 237 employees
-
 Attrition Rate: 16.1%
 Average Age: 37 years
 Average Salary: 6.5K
