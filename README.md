@@ -11,14 +11,16 @@ The dashboard covers various HR metrics, divided into different sections to help
 
 1. Summary Metrics:
 Count of Employees: 1,470
+
 Total Attrition: 237 employees
+
 Attrition Rate: 16.1%
 Average Age: 37 years
 Average Salary: 6.5K
 Average Tenure: 7 years
 These metrics provide an overview of the organization's workforce and the general attrition trend, helping HR quickly assess the scale of attrition.
 
-2. Attrition by Demographics and Education:
+3. Attrition by Demographics and Education:
 Attrition by Education: This pie chart shows the distribution of attrition based on employees' educational backgrounds. Key segments include:
 Life Sciences: 38%
 Medical: 27%
